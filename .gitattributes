@@ -1,0 +1,3 @@
+# Exclude build folders
+/Build/
+/WebGL/
